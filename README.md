@@ -1,3 +1,6 @@
+克隆下来 导入uploadFile.js 
+git https://gitee.com/ruibao-0113_admin/upload-file.git
+
 ```html
 <!-- 1. -->
 <!-- html中 -->
